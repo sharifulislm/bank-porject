@@ -5,7 +5,7 @@ document.getElementById('login-submit').addEventListener('click', function(){
   const passwordField = document.getElementById('user-password');
     const userPassword = passwordField.value;  
        
-  if(userEmail == 'sontan@abbu.com' && userPassword == 'secret' ){ 
+  if(userEmail == 'shariful@gmail.com' && userPassword == '742743' ){ 
   window.location.href = 'babarbank.html';
 }
 });

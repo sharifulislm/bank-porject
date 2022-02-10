@@ -15,6 +15,16 @@ const newDepositTotal = previousDepositAmount + newDepositAmount;
 
 depositTotal.innerText = newDepositTotal;
 
+//update balance 
+
+const balaceTotal = document.getElementById('balance-total');
+const praeviousBalanceTaxt = balaceTotal.innerText;
+const praeviousBalancetotal = parseFloat(praeviousBalanceTaxt);
+
+const newBalnceTotal = praeviousBalancetotal + newDepositAmount;
+
+balaceTotal.innerText=newBalnceTotal;
+
  // clear the deposit input field
  depositInput.value='';
 
