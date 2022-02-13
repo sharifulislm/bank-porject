@@ -96,14 +96,6 @@ withdrawTotal.innerText = newWithrawTotal;
 
 //update balance 
 
-// const balaceTotal = document.getElementById('balance-total');
-// const praeviousBalanceTaxt = balaceTotal.innerText;
-// const praeviousBalancetotal = parseFloat(praeviousBalanceTaxt);
-
-// const newBalnceTotal = praeviousBalancetotal - newwithrawAmounta;
-
-// balaceTotal.innerText=newBalnceTotal;
-//clear withdraw input 
-// withdrawInput.value ='';    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 
 })
